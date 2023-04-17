@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm KOUTTANE KHALID</h1>
 <h3 align="center">A Cloud | DevOps | IoT engineering student at Institut National des Postes et Télécommunications</h3>
 
-- 🌱 I’m currently learning **Cloud,DevOps,AWS and Machine Learning**
+- 🌱 I’m currently learning **SQL Server, IIS, SharePoint, Biztalk**
 
 - 📫 How to reach me **khalidkouttan99@gmail.com**
 
